@@ -9,7 +9,11 @@ This project was built in PHP and need to be run under WAMP/LAMP/XAMP
 
 # What was used
 PHP
+
 HTML
+
 jQuery
+
 CSS
+
 Bootstrap v3
