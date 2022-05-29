@@ -1,2 +1,2 @@
-# invoice
+# Invoice
 Generate Invoice using PHP
